@@ -29,4 +29,10 @@ Most of my Rust time goes into a tactical management game built on Bevy ECS. The
 
 I work async, with no calls. I write down the scope before I start and send a short written update at the end of each working day. My working hours are 10:00–22:00 UTC+5.
 
-You can hire me on [Upwork](https://www.upwork.com/freelancers/sopilnik).
+## Hire me
+
+You can hire me on these sites:
+
+- [Upwork](https://www.upwork.com/freelancers/sopilnik) for hourly or fixed-price work
+- [Fiverr](https://www.fiverr.com/sopilnik) if you want to order a fixed-price gig
+- [Kwork](https://kwork.com/user/sopilnik), where each service shows its price and delivery time
