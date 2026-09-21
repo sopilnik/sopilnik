@@ -31,7 +31,9 @@ I work async, with no calls. I write down the scope before I start and send a sh
 
 ## Hire me
 
-You can hire me on these sites:
+I list my services, starting prices and contact details on [sopilnik.dev](https://sopilnik.dev).
+
+You can also hire me on these sites:
 
 - [Upwork](https://www.upwork.com/freelancers/sopilnik) for hourly or fixed-price work
 - [Fiverr](https://www.fiverr.com/sopilnik) if you want to order a fixed-price gig
