@@ -8,7 +8,7 @@ I build web, desktop and mobile apps and fix broken ones, including apps generat
 - Desktop apps with Tauri and mobile apps with React Native
 - Bug fixes and cleanup in existing React, Next.js and Node.js projects
 - Apps built with AI tools: flaky logins, failing payments, missing access rules, code nobody wants to touch
-- Backends and APIs in TypeScript or Rust, payment and third-party integrations, PostgreSQL with row-level security
+- Backends and APIs in Node.js/TypeScript (Express, NestJS) or Rust, payment and third-party integrations, PostgreSQL with row-level security
 - Rust CLI tools and scrapers
 - Performance fixes for slow pages, endpoints and queries
 
