@@ -14,6 +14,7 @@ I build web, desktop and mobile apps and fix broken ones, including apps generat
 
 ## Public work
 
+- [Formline](https://formline.sopilnik.dev): a demo poster store built with Next.js and TypeScript. It has a collection filter, search, a cart and a Stripe checkout in test mode. The [source](https://github.com/sopilnik/poster-store) has unit and end-to-end tests that run in CI on every push.
 - [reqwest-rotate](https://github.com/sopilnik/reqwest-rotate): a reqwest client with proxy rotation, per-host rate limiting and retries with backoff. Published on [crates.io](https://crates.io/crates/reqwest-rotate), with 101 tests and an MSRV check in CI.
 
 Most of my Rust time goes into a tactical management game built on Bevy ECS. The repository is private for now.
