@@ -28,7 +28,7 @@ Most of my Rust time goes into a tactical management game built on Bevy ECS. The
 
 ## How I work
 
-I work async, with no calls. I write down the scope before I start and send a short written update at the end of each working day. My working hours are 10:00–22:00 UTC+5.
+I work async, with no calls. I write down the scope before I start and send a short written update at the end of each working day. My working hours are 10:00–20:00 UTC+5.
 
 ## Hire me
 
