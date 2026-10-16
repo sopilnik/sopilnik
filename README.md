@@ -15,16 +15,18 @@ I build web, desktop and mobile apps and fix broken ones, including apps generat
 ## Public work
 
 - [Formline](https://formline.sopilnik.dev): a demo poster store built with Next.js and TypeScript. It has a collection filter, search, a cart and a Stripe checkout in test mode. The [source](https://github.com/sopilnik/poster-store) has unit and end-to-end tests that run in CI on every push.
+- [Formline Admin](https://formline-admin.sopilnik.dev): the back office for the Formline store. Every visitor gets a private sandbox with demo data, kept apart by PostgreSQL row-level security. It has staff roles, sign-in with an authenticator app or a passkey, and Stripe test orders from the store. The [source](https://github.com/sopilnik/formline-admin) is public; CI runs lint, type checks, and unit, integration and end-to-end tests.
 - [reqwest-rotate](https://github.com/sopilnik/reqwest-rotate): a reqwest client with proxy rotation, per-host rate limiting and retries with backoff. Version 0.2 is on [crates.io](https://crates.io/crates/reqwest-rotate), with CI on Linux, macOS and Windows.
 
 Most of my Rust time goes into a tactical management game built on Bevy ECS. The repository is private for now.
 
-## Client work (under NDA, so no names)
+## Client work
 
-- Backend for an educational platform: axum microservices with Kafka between them, PostgreSQL and Redis, gRPC for internal calls and REST for the frontend.
-- Rewrote a legacy PHP backend in Node.js/TypeScript and kept the public API compatible, so the frontend needed no changes. Median response time on the main endpoints dropped roughly 3×.
-- Moved a jQuery frontend to React page by page while the product stayed live.
-- Worked on paid access enforced inside PostgreSQL with row-level security policies and a separate role for each subscription tier.
+- [electionnightclub.com](https://electionnightclub.com), a desk that trades election prediction markets: extended its Supabase backend with scheduled TypeScript functions that snapshot Kalshi order books, find new markets and raise alerts, plus hourly LLM race summaries and RAG prep on pgvector.
+- Backend for an educational platform: axum microservices with Kafka between them, PostgreSQL and Redis, gRPC for internal calls and REST for the frontend. *Under NDA.*
+- Rewrote a legacy PHP backend in Node.js/TypeScript and kept the public API compatible, so the frontend needed no changes. Median response time on the main endpoints dropped roughly 3×. *Under NDA.*
+- Moved a jQuery frontend to React page by page while the product stayed live. *Under NDA.*
+- Worked on paid access enforced inside PostgreSQL with row-level security policies and a separate role for each subscription tier. *Under NDA.*
 
 ## How I work
 
